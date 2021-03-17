@@ -1,5 +1,5 @@
 
-![surf_girl](https://user-images.githubusercontent.com/604609/102722759-38142180-42fb-11eb-9d11-e75227146389.jpg)
+![surf_girl]()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonjack&show_icons=true)
 
